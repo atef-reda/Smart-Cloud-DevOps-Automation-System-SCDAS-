@@ -72,7 +72,6 @@ project-root/
 │ └── backup.sh # Backup automation
 │
 └── README.md
-
 ---
 
 ## 🧱 Tech Stack
