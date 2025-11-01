@@ -17,7 +17,6 @@ This project automates:
 - 📊 Monitoring & alerting through **Prometheus**, **Grafana**, and **Alertmanager**
 
 ---
-
 ## 📁 Project Structure
 
 project-root/
@@ -74,7 +73,6 @@ project-root/
 │
 └── README.md
 
-
 ---
 
 ## 🧱 Tech Stack
@@ -109,12 +107,3 @@ git push origin main
 
 
 
-Project Goals
-
-Automate infrastructure provisioning, deployment, and monitoring
-
-Implement a complete DevOps lifecycle from code to production
-
-Ensure scalability, reliability, and observability
-
-Provide a reusable DevOps blueprint for cloud-native systems
